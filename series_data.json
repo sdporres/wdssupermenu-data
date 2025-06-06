@@ -82,7 +82,8 @@
     "Kriegsmarine",
     "Midway",
     "Tsushima",
-    "Wolfpack"
+    "Wolfpack",
+    "Spanish-American War"
   ],
   "Early American Wars": [
     "Campaign 1776",
@@ -122,5 +123,24 @@
     "Middle East '67",
     "North German Plain '85",
     "Quang Tri '72"
+  ],
+  "Squad Battles": [
+    "Squad Battles Demo",
+    "Advance of the Reich",
+    "Dien Bien Phu",
+    "Eagles Strike",
+    "Falklands",
+    "First World War",
+    "Grenada",
+    "Modern War",
+    "Pacific War",
+    "Red Victory",
+    "Soviet-Afghan War",
+    "Spanish Civil War",
+    "The Korean War",
+    "The Proud and the Few",
+    "Tour of Duty",
+    "Vietnam",
+    "Winter War"
   ]
 }
